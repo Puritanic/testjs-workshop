@@ -1,0 +1,106 @@
+{
+  "uid" : "e2c57df4bfc6dcd",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Vue.js Example Application.should login with valid credentials",
+  "historyId" : "249991dc4e55bcf2d2268281268e74f1",
+  "time" : {
+    "start" : 1611764873532,
+    "stop" : 1611764876334,
+    "duration" : 2802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Vue.js Example Application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Vue.js Example Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Vue.js Example Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b13be94ee312eea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611764561077,
+        "stop" : 1611764564031,
+        "duration" : 2954
+      }
+    }, {
+      "uid" : "b8dd4ed66ad5ed85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611763967783,
+        "stop" : 1611763970715,
+        "duration" : 2932
+      }
+    }, {
+      "uid" : "a1eff6f8f187a5dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611763534830,
+        "stop" : 1611763537757,
+        "duration" : 2927
+      }
+    }, {
+      "uid" : "b39db807a6ba3009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611763283998,
+        "stop" : 1611763286746,
+        "duration" : 2748
+      }
+    }, {
+      "uid" : "b75b7c3f79231057",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611763217237,
+        "stop" : 1611763220100,
+        "duration" : 2863
+      }
+    }, {
+      "uid" : "11d9b5461921f65f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611762730575,
+        "stop" : 1611762733505,
+        "duration" : 2930
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2c57df4bfc6dcd.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}

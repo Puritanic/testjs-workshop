@@ -1,0 +1,56 @@
+{
+  "uid" : "b13be94ee312eea0",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Vue.js Example Application.should login with valid credentials",
+  "historyId" : "249991dc4e55bcf2d2268281268e74f1",
+  "time" : {
+    "start" : 1611764561077,
+    "stop" : 1611764564031,
+    "duration" : 2954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Vue.js Example Application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Vue.js Example Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Vue.js Example Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b13be94ee312eea0.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}
